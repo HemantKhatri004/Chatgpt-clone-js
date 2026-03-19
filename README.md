@@ -40,6 +40,7 @@ Chatgpt-clone-js/
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/HemantKhatri004/Chatgpt-clone-js.git
+
 cd Chatgpt-clone-js
 
 ### 2️⃣ Add your GROQ API Key
