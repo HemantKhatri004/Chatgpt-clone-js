@@ -44,7 +44,7 @@ cd Chatgpt-clone-js
 
 ### 2️⃣ Add your GROQ API Key
 
-Open your env file and put your GROQ API key over there.
+Open your env file and put your GROQ and TRAVILY API key over there.
 ---
 
 ### 3️⃣ Run the project
