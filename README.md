@@ -44,10 +44,7 @@ cd Chatgpt-clone-js
 
 ### 2️⃣ Add your GROQ API Key
 
-Open your JavaScript file (e.g., `script.js`) and replace:
-
-const API_KEY = "your_groq_api_key_here";
-
+Open your env file and put your GROQ API key over there.
 ---
 
 ### 3️⃣ Run the project
