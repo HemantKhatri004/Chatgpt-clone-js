@@ -22,7 +22,7 @@ For searching from the web, I have used Tavily in this project.
 - CSS3 – Styling  
 - JavaScript (Vanilla JS) – Logic  
 - OpenAI API – AI responses  
-
+- Node JS and Express for API development
 ---
 
 ## 📂 Project Structure
