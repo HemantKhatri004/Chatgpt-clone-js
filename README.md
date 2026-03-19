@@ -2,7 +2,7 @@
 
 A simple **ChatGPT Clone** built using **HTML, CSS, and JavaScript**, powered by the **OpenAI API**. For now, I have used the GROQ API as this provides free version to use.
 This project replicates the core functionality of ChatGPT, allowing users to interact with an AI chatbot in real-time.
-
+For searching from the web, I have used Tavily in this project.
 ---
 
 ## 📌 Features
